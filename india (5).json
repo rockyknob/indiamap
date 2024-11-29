@@ -17786,7 +17786,7 @@
           "arcs": [[-370, -384, 392, 393, 394, 395, 396, 397, 398, -376]],
           "type": "Polygon",
           "properties": {
-            "district": "Kalaburagi",
+            "district": "Rest of Karnataka",
             "dt_code": "579",
             "st_nm": "Karnataka",
             "st_code": "29",
@@ -17830,7 +17830,7 @@
           "arcs": [[-401, 409, 410, 411, 412, 413, 414, 415, -403]],
           "type": "Polygon",
           "properties": {
-            "district": "Belagavi",
+            "district": "Rest of Karnataka",
             "dt_code": "555",
             "st_nm": "Karnataka",
             "st_code": "29",
@@ -17841,7 +17841,7 @@
           "arcs": [[-398, 416, 417, 418]],
           "type": "Polygon",
           "properties": {
-            "district": "Yadgir",
+            "district": "Rest of Karnataka",
             "dt_code": "580",
             "st_nm": "Karnataka",
             "st_code": "29",
@@ -17852,7 +17852,7 @@
           "arcs": [[-411, 419, 420, 421, 422]],
           "type": "Polygon",
           "properties": {
-            "district": "Bagalkote",
+            "district": "Rest of Karnataka",
             "dt_code": "556",
             "st_nm": "Karnataka",
             "st_code": "29",
@@ -17896,7 +17896,7 @@
           "arcs": [[-418, 435, 436, 437, 438, 439, -421, 440]],
           "type": "Polygon",
           "properties": {
-            "district": "Raichur",
+            "district": "Rest of Karnataka",
             "dt_code": "559",
             "st_nm": "Karnataka",
             "st_code": "29",
@@ -17929,7 +17929,7 @@
           "arcs": [[-422, -440, 452, 453]],
           "type": "Polygon",
           "properties": {
-            "district": "Koppal",
+            "district": "Rest of Karnataka",
             "dt_code": "560",
             "st_nm": "Karnataka",
             "st_code": "29",
@@ -17940,7 +17940,7 @@
           "arcs": [[-412, -423, -454, 454, 455, 456]],
           "type": "Polygon",
           "properties": {
-            "district": "Gadag",
+            "district": "Rest of Karnataka",
             "dt_code": "561",
             "st_nm": "Karnataka",
             "st_code": "29",
@@ -17962,7 +17962,7 @@
           "arcs": [[-439, -452, 460, 461, 462, 463, -455, -453]],
           "type": "Polygon",
           "properties": {
-            "district": "Ballari",
+            "district": "Rest of Karnataka",
             "dt_code": "565",
             "st_nm": "Karnataka",
             "st_code": "29",
@@ -17973,7 +17973,7 @@
           "arcs": [[-413, -457, 464, 465]],
           "type": "Polygon",
           "properties": {
-            "district": "Dharwad",
+            "district": "Rest of Karnataka",
             "dt_code": "562",
             "st_nm": "Karnataka",
             "st_code": "29",
@@ -17984,7 +17984,7 @@
           "arcs": [[-414, -466, 466, 467, 468, 469, 470, -458]],
           "type": "Polygon",
           "properties": {
-            "district": "Uttara Kannada",
+            "district": "Rest of Karnataka",
             "dt_code": "563",
             "st_nm": "Karnataka",
             "st_code": "29",
@@ -18006,7 +18006,7 @@
           "arcs": [[-456, -464, 472, 473, -467, -465]],
           "type": "Polygon",
           "properties": {
-            "district": "Haveri",
+            "district": "Rest of Karnataka",
             "dt_code": "564",
             "st_nm": "Karnataka",
             "st_code": "29",
@@ -18039,7 +18039,7 @@
           "arcs": [[-462, -481, 484, -479, 485, 486, 487]],
           "type": "Polygon",
           "properties": {
-            "district": "Chitradurga",
+            "district": "Rest of Karnataka",
             "dt_code": "566",
             "st_nm": "Karnataka",
             "st_code": "29",
@@ -18050,7 +18050,7 @@
           "arcs": [[-463, -488, 488, 489, -473]],
           "type": "Polygon",
           "properties": {
-            "district": "Davanagere",
+            "district": "Rest of Karnataka",
             "dt_code": "567",
             "st_nm": "Karnataka",
             "st_code": "29",
@@ -18061,7 +18061,7 @@
           "arcs": [[-468, -474, -490, 490, 491]],
           "type": "Polygon",
           "properties": {
-            "district": "Shivamogga",
+            "district": "Rest of Karnataka",
             "dt_code": "568",
             "st_nm": "Karnataka",
             "st_code": "29",
@@ -18072,7 +18072,7 @@
           "arcs": [[-469, -492, 492, 493, 494]],
           "type": "Polygon",
           "properties": {
-            "district": "Udupi",
+            "district": "Rest of Karnataka",
             "dt_code": "569",
             "st_nm": "Karnataka",
             "st_code": "29",
@@ -18083,7 +18083,7 @@
           "arcs": [[-487, 495, 496, 497, -493, -491, -489]],
           "type": "Polygon",
           "properties": {
-            "district": "Chikkamagaluru",
+            "district": "Rest of Karnataka",
             "dt_code": "570",
             "st_nm": "Karnataka",
             "st_code": "29",
@@ -18094,7 +18094,7 @@
           "arcs": [[-477, 498, 499, 500, 501]],
           "type": "Polygon",
           "properties": {
-            "district": "Chikkaballapura",
+            "district": "Rest of Karnataka",
             "dt_code": "582",
             "st_nm": "Karnataka",
             "st_code": "29",
@@ -18105,7 +18105,7 @@
           "arcs": [[-497, 502, 503, 504, 505, 506]],
           "type": "Polygon",
           "properties": {
-            "district": "Hassan",
+            "district": "Rest of Karnataka",
             "dt_code": "574",
             "st_nm": "Karnataka",
             "st_code": "29",
@@ -18116,7 +18116,7 @@
           "arcs": [[-53, 507, -500, 508]],
           "type": "Polygon",
           "properties": {
-            "district": "Kolar",
+            "district": "Rest of Karnataka",
             "dt_code": "581",
             "st_nm": "Karnataka",
             "st_code": "29",
@@ -18138,7 +18138,7 @@
           "arcs": [[-494, -498, -507, 512, 513, 514]],
           "type": "Polygon",
           "properties": {
-            "district": "Dakshina Kannada",
+            "district": "Rest of Karnataka",
             "dt_code": "575",
             "st_nm": "Karnataka",
             "st_code": "29",
@@ -18171,7 +18171,7 @@
           "arcs": [[-506, 519, 520, 521, -517, -513]],
           "type": "Polygon",
           "properties": {
-            "district": "Kodagu",
+            "district": "Rest of Karnataka",
             "dt_code": "576",
             "st_nm": "Karnataka",
             "st_code": "29",
@@ -18182,7 +18182,7 @@
           "arcs": [[-65, -76, -81, 522, 523, 524, 525, -49]],
           "type": "Polygon",
           "properties": {
-            "district": "Chamarajanagara",
+            "district": "Rest of Karnataka",
             "dt_code": "578",
             "st_nm": "Karnataka",
             "st_code": "29",
@@ -18867,7 +18867,7 @@
           ],
           "type": "MultiPolygon",
           "properties": {
-            "district": "Tumakuru",
+            "district": "Rest of Karnataka",
             "dt_code": "571",
             "st_nm": "Karnataka",
             "st_code": "29",
@@ -18889,7 +18889,7 @@
           "arcs": [[-50, -526, 697, -696, -511, -516]],
           "type": "Polygon",
           "properties": {
-            "district": "Ramanagara",
+            "district": "Rest of Karnataka",
             "dt_code": "584",
             "st_nm": "Karnataka",
             "st_code": "29",
@@ -18900,7 +18900,7 @@
           "arcs": [[-504, -697, -698, -525, 698]],
           "type": "Polygon",
           "properties": {
-            "district": "Mandya",
+            "district": "Rest of Karnataka",
             "dt_code": "573",
             "st_nm": "Karnataka",
             "st_code": "29",
@@ -18911,7 +18911,7 @@
           "arcs": [[-505, -699, -524, -530, -520]],
           "type": "Polygon",
           "properties": {
-            "district": "Mysuru",
+            "district": "Rest of Karnataka",
             "dt_code": "577",
             "st_nm": "Karnataka",
             "st_code": "29",
@@ -19455,7 +19455,7 @@
           "arcs": [[-377, -399, -419, -441, -420, -410, -400]],
           "type": "Polygon",
           "properties": {
-            "district": "Vijayapura",
+            "district": "Rest of Karnataka",
             "dt_code": "557",
             "st_nm": "Karnataka",
             "st_code": "29",
@@ -21456,7 +21456,7 @@
           "arcs": [[-1393, 1453, 1454, 1455, 1456, 1457, 1458, 1459]],
           "type": "Polygon",
           "properties": {
-            "district": "East Champaran",
+            "district": "Rest of Bihar",
             "dt_code": "204",
             "st_nm": "Bihar",
             "st_code": "10",
@@ -21599,7 +21599,7 @@
           "arcs": [[-1455, 1497, 1498, 1499, 1500, 1501]],
           "type": "Polygon",
           "properties": {
-            "district": "Sitamarhi",
+            "district": "Rest of Bihar",
             "dt_code": "206",
             "st_nm": "Bihar",
             "st_code": "10",
@@ -21621,7 +21621,7 @@
           "arcs": [[-1456, -1502, 1505]],
           "type": "Polygon",
           "properties": {
-            "district": "Sheohar",
+            "district": "Rest of Bihar",
             "dt_code": "205",
             "st_nm": "Bihar",
             "st_code": "10",
@@ -21656,7 +21656,7 @@
           "arcs": [[-1389, -1460, 1519, 1520, 1521, -1494, -1427]],
           "type": "Polygon",
           "properties": {
-            "district": "Gopalganj",
+            "district": "Rest of Bihar",
             "dt_code": "217",
             "st_nm": "Bihar",
             "st_code": "10",
@@ -21790,7 +21790,7 @@
           "arcs": [[1562, 1563, 1564, 1565, 1566, 1567]],
           "type": "Polygon",
           "properties": {
-            "district": "Samastipur",
+            "district": "Rest of Bihar",
             "dt_code": "221",
             "st_nm": "Bihar",
             "st_code": "10",
@@ -21823,7 +21823,7 @@
           "arcs": [[1573, 1574, 1575, 1576, 1577]],
           "type": "Polygon",
           "properties": {
-            "district": "Katihar",
+            "district": "Rest of Bihar",
             "dt_code": "212",
             "st_nm": "Bihar",
             "st_code": "10",
@@ -21910,7 +21910,7 @@
           "arcs": [[-1563, 1627, 1628, 1629, 1630, 1631, 1632]],
           "type": "Polygon",
           "properties": {
-            "district": "Khagaria",
+            "district": "Rest of Bihar",
             "dt_code": "223",
             "st_nm": "Bihar",
             "st_code": "10",
@@ -21921,7 +21921,7 @@
           "arcs": [[-1545, 1633, 1634, 1635, 1636, 1637]],
           "type": "Polygon",
           "properties": {
-            "district": "Bhojpur",
+            "district": "Rest of Bihar",
             "dt_code": "231",
             "st_nm": "Bihar",
             "st_code": "10",
@@ -21943,7 +21943,7 @@
           "arcs": [[-1546, -1638, 1643, 1644, -1621]],
           "type": "Polygon",
           "properties": {
-            "district": "Buxar",
+            "district": "Rest of Bihar",
             "dt_code": "232",
             "st_nm": "Bihar",
             "st_code": "10",
@@ -21998,7 +21998,7 @@
           "arcs": [[-1500, 1658, 1659, -1628, -1568, 1660]],
           "type": "Polygon",
           "properties": {
-            "district": "Darbhanga",
+            "district": "Rest of Bihar",
             "dt_code": "215",
             "st_nm": "Bihar",
             "st_code": "10",
@@ -22009,7 +22009,7 @@
           "arcs": [[-1629, -1660, 1661, 1662, 1663]],
           "type": "Polygon",
           "properties": {
-            "district": "Saharsa",
+            "district": "Rest of Bihar",
             "dt_code": "214",
             "st_nm": "Bihar",
             "st_code": "10",
@@ -22075,7 +22075,7 @@
           "arcs": [[-1575, -1652, 1675, 1676, 1677, 1678]],
           "type": "Polygon",
           "properties": {
-            "district": "Sahibganj",
+            "district": "Rest of Jharkhand",
             "dt_code": "352",
             "st_nm": "Jharkhand",
             "st_code": "20",
@@ -22086,7 +22086,7 @@
           "arcs": [[-1622, -1645, 1679, 1680, -1670]],
           "type": "Polygon",
           "properties": {
-            "district": "Kaimur",
+            "district": "Rest of Bihar",
             "dt_code": "233",
             "st_nm": "Bihar",
             "st_code": "10",
@@ -22097,7 +22097,7 @@
           "arcs": [[-1637, 1681, 1682, 1683, 1684, 1685, -1680, -1644]],
           "type": "Polygon",
           "properties": {
-            "district": "Rohtas",
+            "district": "Rest of Bihar",
             "dt_code": "234",
             "st_nm": "Bihar",
             "st_code": "10",
@@ -22119,7 +22119,7 @@
           "arcs": [[-1678, 1692, 1693, 1694, 1695]],
           "type": "Polygon",
           "properties": {
-            "district": "Godda",
+            "district": "Rest of Jharkhand",
             "dt_code": "351",
             "st_nm": "Jharkhand",
             "st_code": "20",
@@ -22154,7 +22154,7 @@
           "arcs": [[1705, 1706, 1707, 1708, 1709, 1710, 1711]],
           "type": "Polygon",
           "properties": {
-            "district": "Jamui",
+            "district": "Rest of Bihar",
             "dt_code": "238",
             "st_nm": "Bihar",
             "st_code": "10",
@@ -22176,7 +22176,7 @@
           "arcs": [[-1695, 1716, 1717, -1706, 1718, 1719]],
           "type": "Polygon",
           "properties": {
-            "district": "Banka",
+            "district": "Rest of Bihar",
             "dt_code": "225",
             "st_nm": "Bihar",
             "st_code": "10",
@@ -22220,7 +22220,7 @@
           "arcs": [[-1709, 1733, 1734, 1735, 1736, 1737]],
           "type": "Polygon",
           "properties": {
-            "district": "Nawada",
+            "district": "Rest of Bihar",
             "dt_code": "237",
             "st_nm": "Bihar",
             "st_code": "10",
@@ -22231,7 +22231,7 @@
           "arcs": [[-1736, 1738, 1739, 1740, 1741, 1742, 1743, 1744, 1745]],
           "type": "Polygon",
           "properties": {
-            "district": "Gaya",
+            "district": "Rest of Bihar",
             "dt_code": "236",
             "st_nm": "Bihar",
             "st_code": "10",
@@ -22297,7 +22297,7 @@
           "arcs": [[-1677, -1761, 1764, 1765, -1693]],
           "type": "Polygon",
           "properties": {
-            "district": "Pakur",
+            "district": "Rest of Jharkhand",
             "dt_code": "353",
             "st_nm": "Jharkhand",
             "st_code": "20",
@@ -22319,7 +22319,7 @@
           "arcs": [[-1632, 1769, -1719, -1712, 1770, 1771]],
           "type": "Polygon",
           "properties": {
-            "district": "Munger",
+            "district": "Rest of Bihar",
             "dt_code": "226",
             "st_nm": "Bihar",
             "st_code": "10",
@@ -22330,7 +22330,7 @@
           "arcs": [[-1708, 1772, 1773, 1774, 1775, 1776, 1777, -1734]],
           "type": "Polygon",
           "properties": {
-            "district": "Giridih",
+            "district": "Rest of Jharkhand",
             "dt_code": "349",
             "st_nm": "Jharkhand",
             "st_code": "20",
@@ -22341,7 +22341,7 @@
           "arcs": [[-1694, -1766, 1778, 1779, 1780, -1717]],
           "type": "Polygon",
           "properties": {
-            "district": "Dumka",
+            "district": "Rest of Jharkhand",
             "dt_code": "362",
             "st_nm": "Jharkhand",
             "st_code": "20",
@@ -22374,7 +22374,7 @@
           "arcs": [[-1707, -1718, -1781, 1788, -1773]],
           "type": "Polygon",
           "properties": {
-            "district": "Deoghar",
+            "district": "Rest of Jharkhand",
             "dt_code": "350",
             "st_nm": "Jharkhand",
             "st_code": "20",
@@ -22385,7 +22385,7 @@
           "arcs": [[-1684, 1789, -1742, 1790, 1791, 1792]],
           "type": "Polygon",
           "properties": {
-            "district": "Palamu",
+            "district": "Rest of Jharkhand",
             "dt_code": "358",
             "st_nm": "Jharkhand",
             "st_code": "20",
@@ -22407,7 +22407,7 @@
           "arcs": [[-1741, 1795, 1796, 1797, -1791]],
           "type": "Polygon",
           "properties": {
-            "district": "Chatra",
+            "district": "Rest of Jharkhand",
             "dt_code": "347",
             "st_nm": "Jharkhand",
             "st_code": "20",
@@ -22418,7 +22418,7 @@
           "arcs": [[-1685, -1793, 1798, 1799, -1762]],
           "type": "Polygon",
           "properties": {
-            "district": "Garhwa",
+            "district": "Rest of Jharkhand",
             "dt_code": "346",
             "st_nm": "Jharkhand",
             "st_code": "20",
@@ -22528,7 +22528,7 @@
           "arcs": [[-1774, -1789, -1780, -1788, 1834, 1835]],
           "type": "Polygon",
           "properties": {
-            "district": "Jamtara",
+            "district": "Rest of Jharkhand",
             "dt_code": "363",
             "st_nm": "Jharkhand",
             "st_code": "20",
@@ -22561,7 +22561,7 @@
           "arcs": [[-1775, -1836, 1843, 1844, 1845]],
           "type": "Polygon",
           "properties": {
-            "district": "Dhanbad",
+            "district": "Rest of Jharkhand",
             "dt_code": "354",
             "st_nm": "Jharkhand",
             "st_code": "20",
@@ -22594,7 +22594,7 @@
           "arcs": [[-1792, -1798, 1854, 1855, 1856, 1857, -1799]],
           "type": "Polygon",
           "properties": {
-            "district": "Latehar",
+            "district": "Rest of Jharkhand",
             "dt_code": "359",
             "st_nm": "Jharkhand",
             "st_code": "20",
@@ -22616,7 +22616,7 @@
           "arcs": [[-1776, -1846, 1862, 1863, 1864]],
           "type": "Polygon",
           "properties": {
-            "district": "Bokaro",
+            "district": "Rest of Jharkhand",
             "dt_code": "355",
             "st_nm": "Jharkhand",
             "st_code": "20",
@@ -22627,7 +22627,7 @@
           "arcs": [[-1864, 1865, 1866, 1867]],
           "type": "Polygon",
           "properties": {
-            "district": "Ramgarh",
+            "district": "Rest of Jharkhand",
             "dt_code": "361",
             "st_nm": "Jharkhand",
             "st_code": "20",
@@ -22759,7 +22759,7 @@
           "arcs": [[-1856, -1903, 1905]],
           "type": "Polygon",
           "properties": {
-            "district": "Lohardaga",
+            "district": "Rest of Jharkhand",
             "dt_code": "356",
             "st_nm": "Jharkhand",
             "st_code": "20",
@@ -22792,7 +22792,7 @@
           "arcs": [[-1857, -1906, -1902, 1912, 1913, 1914, 1915]],
           "type": "Polygon",
           "properties": {
-            "district": "Gumla",
+            "district": "Rest of Jharkhand",
             "dt_code": "366",
             "st_nm": "Jharkhand",
             "st_code": "20",
@@ -22880,7 +22880,7 @@
           "arcs": [[-1901, 1927, 1928, 1929, -1913]],
           "type": "Polygon",
           "properties": {
-            "district": "Khunti",
+            "district": "Rest of Jharkhand",
             "dt_code": "365",
             "st_nm": "Jharkhand",
             "st_code": "20",
@@ -22935,7 +22935,7 @@
           "arcs": [[-757, 1935, -1928, -1900, -1893, 1936]],
           "type": "Polygon",
           "properties": {
-            "district": "Saraikela-Kharsawan",
+            "district": "Rest of Jharkhand",
             "dt_code": "369",
             "st_nm": "Jharkhand",
             "st_code": "20",
@@ -22957,7 +22957,7 @@
           "arcs": [[-758, -1937, -1892, -845]],
           "type": "Polygon",
           "properties": {
-            "district": "East Singhbhum",
+            "district": "Rest of Jharkhand",
             "dt_code": "357",
             "st_nm": "Jharkhand",
             "st_code": "20",
@@ -22990,7 +22990,7 @@
           "arcs": [[-756, -808, -768, 1939, -1929, -1936]],
           "type": "Polygon",
           "properties": {
-            "district": "West Singhbhum",
+            "district": "Rest of Jharkhand",
             "dt_code": "368",
             "st_nm": "Jharkhand",
             "st_code": "20",
@@ -23012,7 +23012,7 @@
           "arcs": [[-767, -1935, -1914, -1930, -1940]],
           "type": "Polygon",
           "properties": {
-            "district": "Simdega",
+            "district": "Rest of Jharkhand",
             "dt_code": "367",
             "st_nm": "Jharkhand",
             "st_code": "20",
@@ -23034,7 +23034,7 @@
           "arcs": [[-1735, -1778, 1942, -1739]],
           "type": "Polygon",
           "properties": {
-            "district": "Koderma",
+            "district": "Rest of Jharkhand",
             "dt_code": "348",
             "st_nm": "Jharkhand",
             "st_code": "20",
@@ -23045,7 +23045,7 @@
           "arcs": [[-1740, -1943, -1777, -1865, -1868, -1899, -1796]],
           "type": "Polygon",
           "properties": {
-            "district": "Hazaribagh",
+            "district": "Rest of Jharkhand",
             "dt_code": "360",
             "st_nm": "Jharkhand",
             "st_code": "20",
@@ -23056,7 +23056,7 @@
           "arcs": [[-1566, 1943, 1944, 1945]],
           "type": "Polygon",
           "properties": {
-            "district": "Vaishali",
+            "district": "Rest of Bihar",
             "dt_code": "220",
             "st_nm": "Bihar",
             "st_code": "10",
@@ -23067,7 +23067,7 @@
           "arcs": [[-1564, -1633, -1772, 1946, 1947]],
           "type": "Polygon",
           "properties": {
-            "district": "Begusarai",
+            "district": "Rest of Bihar",
             "dt_code": "222",
             "st_nm": "Bihar",
             "st_code": "10",
@@ -23078,7 +23078,7 @@
           "arcs": [[-1576, -1679, -1696, -1720, -1770, -1631, 1948, 1949]],
           "type": "Polygon",
           "properties": {
-            "district": "Bhagalpur",
+            "district": "Rest of Bihar",
             "dt_code": "224",
             "st_nm": "Bihar",
             "st_code": "10",
@@ -23089,7 +23089,7 @@
           "arcs": [[-1711, 1950, 1951, 1952, -1947, -1771]],
           "type": "Polygon",
           "properties": {
-            "district": "Lakhisarai",
+            "district": "Rest of Bihar",
             "dt_code": "227",
             "st_nm": "Bihar",
             "st_code": "10",
@@ -23100,7 +23100,7 @@
           "arcs": [[-1710, -1738, 1953, -1951]],
           "type": "Polygon",
           "properties": {
-            "district": "Sheikhpura",
+            "district": "Rest of Bihar",
             "dt_code": "228",
             "st_nm": "Bihar",
             "st_code": "10",
@@ -23111,7 +23111,7 @@
           "arcs": [[-1636, 1954, 1955, -1744, 1956, -1682]],
           "type": "Polygon",
           "properties": {
-            "district": "Arwal",
+            "district": "Rest of Bihar",
             "dt_code": "240",
             "st_nm": "Bihar",
             "st_code": "10",
@@ -23122,7 +23122,7 @@
           "arcs": [[-1745, -1956, 1957, 1958]],
           "type": "Polygon",
           "properties": {
-            "district": "Jehanabad",
+            "district": "Rest of Bihar",
             "dt_code": "239",
             "st_nm": "Bihar",
             "st_code": "10",
@@ -23133,7 +23133,7 @@
           "arcs": [[-1737, -1746, -1959, 1959, -1952, -1954]],
           "type": "Polygon",
           "properties": {
-            "district": "Nalanda",
+            "district": "Rest of Bihar",
             "dt_code": "229",
             "st_nm": "Bihar",
             "st_code": "10",
@@ -23157,7 +23157,7 @@
           "arcs": [[-1521, 1961, -1945, -1961, -1634, -1544, 1962]],
           "type": "Polygon",
           "properties": {
-            "district": "Saran",
+            "district": "Rest of Bihar",
             "dt_code": "219",
             "st_nm": "Bihar",
             "st_code": "10",
@@ -23168,7 +23168,7 @@
           "arcs": [[-1495, -1522, -1963, -1543]],
           "type": "Polygon",
           "properties": {
-            "district": "Siwan",
+            "district": "Rest of Bihar",
             "dt_code": "218",
             "st_nm": "Bihar",
             "st_code": "10",
@@ -23184,7 +23184,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "district": "Muzaffarpur",
+            "district": "Rest of Bihar",
             "dt_code": "216",
             "st_nm": "Bihar",
             "st_code": "10",
@@ -23195,7 +23195,7 @@
           "arcs": [[-1630, -1664, 1963, 1964, 1965, -1949]],
           "type": "Polygon",
           "properties": {
-            "district": "Madhepura",
+            "district": "Rest of Bihar",
             "dt_code": "213",
             "st_nm": "Bihar",
             "st_code": "10",
@@ -23206,7 +23206,7 @@
           "arcs": [[-1965, 1966, 1967, 1968, 1969]],
           "type": "Polygon",
           "properties": {
-            "district": "Araria",
+            "district": "Rest of Bihar",
             "dt_code": "209",
             "st_nm": "Bihar",
             "st_code": "10",
@@ -23217,7 +23217,7 @@
           "arcs": [[-1663, 1970, 1971, -1967, -1964]],
           "type": "Polygon",
           "properties": {
-            "district": "Supaul",
+            "district": "Rest of Bihar",
             "dt_code": "208",
             "st_nm": "Bihar",
             "st_code": "10",
@@ -23228,7 +23228,7 @@
           "arcs": [[-1499, 1972, -1971, -1662, -1659]],
           "type": "Polygon",
           "properties": {
-            "district": "Madhubani",
+            "district": "Rest of Bihar",
             "dt_code": "207",
             "st_nm": "Bihar",
             "st_code": "10",
@@ -23241,7 +23241,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "district": "Purnia",
+            "district": "Rest of Bihar",
             "dt_code": "211",
             "st_nm": "Bihar",
             "st_code": "10",
@@ -23564,7 +23564,7 @@
           "arcs": [[-1422, -2006, -1974, -1969, 2020]],
           "type": "Polygon",
           "properties": {
-            "district": "Kishanganj",
+            "district": "Rest of Bihar",
             "dt_code": "210",
             "st_nm": "Bihar",
             "st_code": "10",
@@ -24111,7 +24111,7 @@
           "properties": {
             "district": "Chandigarh",
             "dt_code": "055",
-            "st_nm": "Punjab",
+            "st_nm": "Chandigarh",
             "st_code": "04",
             "year": "2011_c"
           }
@@ -24120,7 +24120,7 @@
           "arcs": [[-2170, 2209, -2203, 2210, 2211, 2212]],
           "type": "Polygon",
           "properties": {
-            "district": "Sri Muktsar Sahib",
+            "district": "Rest of Punjab",
             "dt_code": "044",
             "st_nm": "Punjab",
             "st_code": "03",
@@ -24153,7 +24153,7 @@
           "arcs": [[-2177, -2206, 2218, 2219, 2220, 2221, 2222]],
           "type": "Polygon",
           "properties": {
-            "district": "Sangrur",
+            "district": "Rest of Punjab",
             "dt_code": "053",
             "st_nm": "Punjab",
             "st_code": "03",
@@ -24164,7 +24164,7 @@
           "arcs": [[-2172, -2178, -2223, 2223, 2224]],
           "type": "Polygon",
           "properties": {
-            "district": "Barnala",
+            "district": "Rest of Punjab",
             "dt_code": "054",
             "st_nm": "Punjab",
             "st_code": "03",
@@ -24175,7 +24175,7 @@
           "arcs": [[-2173, -2225, 2225, 2226, -2211, -2202]],
           "type": "Polygon",
           "properties": {
-            "district": "Bathinda",
+            "district": "Rest of Punjab",
             "dt_code": "046",
             "st_nm": "Punjab",
             "st_code": "03",
@@ -24186,7 +24186,7 @@
           "arcs": [[-2200, 2227, 2228, 2229, 2230, 2231, 2232, -2219, -2205]],
           "type": "Polygon",
           "properties": {
-            "district": "Patiala",
+            "district": "Rest of Punjab",
             "dt_code": "048",
             "st_nm": "Punjab",
             "st_code": "03",
@@ -24230,7 +24230,7 @@
           "arcs": [[-2222, 2244, 2245, -2226, -2224]],
           "type": "Polygon",
           "properties": {
-            "district": "Mansa",
+            "district": "Rest of Punjab",
             "dt_code": "047",
             "st_nm": "Punjab",
             "st_code": "03",
@@ -25238,7 +25238,7 @@
           "properties": {
             "district": "Chandigarh",
             "dt_code": "055",
-            "st_nm": "Punjab",
+            "st_nm": "Chandigarh",
             "st_code": "04",
             "year": "2011_c"
           },
